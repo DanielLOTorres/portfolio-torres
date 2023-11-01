@@ -68,7 +68,7 @@
   .btn-container {
     flex-wrap: wrap;
   }
-  .contact-info-container {
+  .contact-info-container child {
     margin: 0;
   }
   .contact-info-container p,
